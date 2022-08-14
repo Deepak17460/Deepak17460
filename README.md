@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centre" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak17460" alt="deepak17460" /></a> </p>
 
