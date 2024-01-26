@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)](https://Deepak17640.io)
-<h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
 <img align="centre" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
