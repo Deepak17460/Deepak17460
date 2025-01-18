@@ -1,3 +1,16 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ManishK4514&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> 
+</p>
+
+<p align="center" color:"red">
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Manish+Kumar;I+am+interested+in+FullStack+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos">
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -60,4 +73,3 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak17460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak17460&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
