@@ -34,9 +34,9 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 ---
 
 ### 📫 How to Reach Me  
-- **LinkedIn**: [Deepak Singh](https://www.linkedin.com/in/bhardwaj123/)  
-- **LeetCode**: [Profile](https://www.leetcode.com/dadakumarsingh803206)  
-- **YouTube**: [Channel](www.youtube.com/@DPCODE72)
+- **LinkedIn**: [Deepak Kumar](https://www.linkedin.com/in/bhardwaj123/)  
+- **LeetCode**: [Deepak Kumar](https://www.leetcode.com/dadakumarsingh803206)  
+- **YouTube**: [Deepak Kumar](www.youtube.com/@DPCODE72)
 
 ---
 
