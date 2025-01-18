@@ -66,18 +66,10 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepak17460&theme=nord_dark" alt="GitHub Stats" style="width: 80%; min-width: 200px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepak17460&theme=nord_dark" alt="GitHub Stats" style="width: 40%; min-width: 100px;" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/streak?username=Deepak17460&theme=nord_dark" alt="GitHub Streak" style="width: 80%; min-width: 200px;" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak17460&theme=nord_dark" alt="Top Languages" style="width: 80%; min-width: 200px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak17460&theme=nord_dark" alt="Top Languages" style="width: 40%; min-width: 100px;" />
 </div>
 
