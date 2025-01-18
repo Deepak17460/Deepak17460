@@ -55,9 +55,17 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 My GitHub Stats
+
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak17460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak17460&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak17460&" alt="GitHub Streak" />
 </p>
---- 
+
+<p>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Deepak17460&theme=github" alt="GitHub Contribution Graph" />
+</p>
+
+<p>
+  ![2D Graph](https://raw.githubusercontent.com/Deepak17460/repository-name/branch-name/2d_graph.png)
+</p>
+
