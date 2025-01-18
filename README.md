@@ -63,11 +63,5 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 
 ---
 
-### 📊 My GitHub Stats
-<div align="center">
-  <div style="display: flex;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishK4514&theme=nord_dark" style="width: 50%" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManishK4514&theme=one-dark-pro&hide_border=false)<br/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak17460&theme=nord_dark" style="width: 50%" />
-  </div>
-</div>
+📊 My GitHub Stats
+<div align="center"> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishK4514&theme=nord_dark" alt="GitHub Stats" style="width: 45%; min-width: 300px;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak17460&theme=one-dark-pro&hide_border=false" alt="GitHub Streak" style="width: 45%; min-width: 300px;" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak17460&theme=nord_dark" alt="Top Languages" style="width: 45%; min-width: 300px;" /> </div> </div>
