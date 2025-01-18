@@ -61,6 +61,6 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak17460&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak17460&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak17460&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 --- 
