@@ -64,7 +64,10 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 ---
 
 ### 📊 My GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak17460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak17460&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <div style="display: flex;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ManishK4514&theme=nord_dark" style="width: 50%" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManishK4514&theme=one-dark-pro&hide_border=false)<br/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepak17460&theme=nord_dark" style="width: 50%" />
+  </div>
+</div>
