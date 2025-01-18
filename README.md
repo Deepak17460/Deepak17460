@@ -1,12 +1,7 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" />
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ManishK4514&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> 
-</p>
 
 <p align="center" color:"red">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Manish+Kumar;I+am+interested+in+FullStack+Web+development;Follow+me+on+GitHub;Catch+up+my+latest+repos">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I+am+Deepak+Kumar;I+am+interested+in+FullStack+DevOps+Cloud;Follow+me+on+GitHub;Catch+up+my+latest+repos">
   </a>
 </p>
 
