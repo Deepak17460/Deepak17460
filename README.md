@@ -36,7 +36,7 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
 ### 📫 How to Reach Me  
 - **LinkedIn**: [Deepak Singh](https://www.linkedin.com/in/bhardwaj123/)  
 - **LeetCode**: [Profile](https://www.leetcode.com/dadakumarsingh803206)  
-- **YouTube**: [Channel](https://youtu.be/ssyp5sacosi)
+- **YouTube**: [Channel](www.youtube.com/@DPCODE72)
 
 ---
 
@@ -60,7 +60,4 @@ I'm a continuous learner, always seeking new challenges and opportunities to exp
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak17460&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak17460&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Deepak17460&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
 --- 
